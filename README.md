@@ -1,5 +1,5 @@
 # Project-Redshift
-![alt text]([https://i.imgur.com/hq4yiqa.png](https://i.imgur.com/HF9RWTc.png)
+![alt text](https://i.imgur.com/HF9RWTc.png)
 
 Redshift offers account scanning
 ![alt text](https://i.imgur.com/hq4yiqa.png)
