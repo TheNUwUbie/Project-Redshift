@@ -5,6 +5,6 @@ Redshift offers account scanning
 ![alt text](https://i.imgur.com/hq4yiqa.png)
 
 Aswell as a proxyless combo list maker with filters.
-![alt text](https://i.imgur.com/xaJvTnr.png)
+![alt text](https://i.imgur.com/4TqIYTD.png)
 
 --------------More updates coming soon--------------
