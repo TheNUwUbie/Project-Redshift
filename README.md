@@ -8,7 +8,7 @@ Aswell as a proxyless combo list maker with filters.
 
 ![alt text](https://i.imgur.com/4TqIYTD.png)
 
-Results will then be outputted toa .txt file in User:Pass format
+Results will then be outputted to a .txt file in User:Pass format
 
 ![alt text](https://i.imgur.com/e4Vc5NO.png)
 
