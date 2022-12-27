@@ -1,9 +1,12 @@
 # Requirements
 
 You need to have capsolver inorder to solve the funcaptchas.
-https://capsolver.com/
+
+
 You will also need proxies in IP:PORT format that can white list capsolvers ip
 whitelist this IP address: 47.253.53.46 on what ever proxy provider you have. Make sure the proxies are in IP:PORT format. NOT HOSTNAME:PORT
+
+https://capsolver.com/
 
 
 Currently only Supports HTTPS proxies in IP:PORT format.
