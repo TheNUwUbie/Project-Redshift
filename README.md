@@ -4,16 +4,17 @@ You need to have capsolver inorder to solve the funcaptchas.
 
 
 You will also need proxies in IP:PORT format that can white list capsolvers ip
-whitelist this IP address: 47.253.53.46 on what ever proxy provider you have. Make sure the proxies are in IP:PORT format. NOT HOSTNAME:PORT
+whitelist this IP address: 47.253.53.46 on what ever proxy provider you have.
 
 https://capsolver.com/
 
+# Proxies
 
-Currently only Supports HTTPS proxies in IP:PORT format.
+Currently only Supports HTTP proxies in HOSTNAME:PORT or IP:PORT format.
 I've used this service for a while and haven't had issues other than some of there proxies are dead.
-
 https://free-proxy-list.net/rotating-proxy.html 
 
+Testing https://iproyal.com?r=Redshift
 
 # Project-Redshift
 
