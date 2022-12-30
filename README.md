@@ -16,7 +16,9 @@ Suggested proxy providers:
  
 
 https://www.webshare.io/?referral_code=ph8m3vr5fg1k - Capsolver is already white list. Just whitelsit you're ip.
+
 https://iproyal.com?r=Redshift - Testing
+
 https://free-proxy-list.net/rotating-proxy.html - Works but some of the proxies don't work.
 
 
