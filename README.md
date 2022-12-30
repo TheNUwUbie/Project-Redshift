@@ -11,10 +11,14 @@ https://dashboard.capsolver.com/passport/register?inviteCode=j377MlLHrlFs
 # Proxies
 
 Currently only Supports HTTP proxies in HOSTNAME:PORT or IP:PORT format.
-I've used this service for a while and haven't had issues other than some of there proxies are dead.
-https://free-proxy-list.net/rotating-proxy.html 
 
-Testing https://iproyal.com?r=Redshift
+Suggested proxy providers:
+ 
+
+https://www.webshare.io/?referral_code=ph8m3vr5fg1k - Capsolver is already white list. Just whitelsit you're ip.
+https://iproyal.com?r=Redshift - Testing
+https://free-proxy-list.net/rotating-proxy.html - Works but some of the proxies don't work.
+
 
 # Project-Redshift
 
