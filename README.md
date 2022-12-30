@@ -6,7 +6,7 @@ You need to have capsolver inorder to solve the funcaptchas.
 You will also need proxies in IP:PORT format that can white list capsolvers ip
 whitelist this IP address: 47.253.53.46 on what ever proxy provider you have.
 
-https://capsolver.com/
+https://dashboard.capsolver.com/passport/register?inviteCode=j377MlLHrlFs
 
 # Proxies
 
